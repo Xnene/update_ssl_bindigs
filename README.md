@@ -1,7 +1,5 @@
 # Azure App Service SSL Binding Rotator
 
-## Česky
-
 Bash skript pro hromadné přepnutí existujících SSL/TLS vazeb ve všech produkčních App Services ve vybrané resource group. Používá již nahrané certifikáty a otisky dohledá automaticky podle domény. Vlastní hlášky skriptu se vypisují česky i anglicky současně; výstup Azure CLI zůstává v původním jazyce.
 
 ### Požadavky
@@ -98,4 +96,4 @@ Updates existing SSL/TLS bindings across all production App Services in a resour
 
 ## Author and License
 
-[SirNeNe](https://github.com/xnene) · Script version 1.0.2 · MIT
+[SirNeNe](https://github.com/xnene) · Script version 1.0.3 · MIT
