@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Created by: Xnene
-# Version: 1.0.2
+# Version: 1.0.3
 # Created on: 2024-06-05
 # Focus: rotate SSL bindings for all web apps in a resource group
 # License: MIT
